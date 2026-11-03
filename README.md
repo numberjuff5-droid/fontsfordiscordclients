@@ -1,3 +1,6 @@
+!!! THIS IS NOT MINE, I ONLY MADE A FORK FOR MY OWN FONTS. !!!
+All credit goes to: https://github.com/bx3dimportsfont
+
 So to use this follow this guide or watch the youtube video. 
 
 
